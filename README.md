@@ -13,5 +13,5 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ![Print dos produtos](/tela%20detalhes.png)
 
-![Print dos produtos](/tela%20produtos.png)
+![Print dos produtos](/tela%20console.png)
 
